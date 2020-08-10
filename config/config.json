@@ -19,7 +19,7 @@
     "username": "pmmnvnqbvcuvmc",
     "password": "6501edc8e32becc9affa1332f1332f78930c16efba8ae016a965ace2d24a44d5",
     "database": "dbk5klu2duvcck",
-    "host": "ec2-54-159-138-67.compute-1.amazonaws.com:5432",
+    "host": "ec2-54-159-138-67.compute-1.amazonaws.com",
     "dialect": "postgres",
     "protocol": "postgres",
     "operatorsAliases": false,
