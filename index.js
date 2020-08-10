@@ -39,6 +39,6 @@ app.group('/api/v1', (router) => {
 
 })
 
-app.listen(2020, () => {
-    console.log(`Node bekerja...`)
+app.listen(process.env.PORT, () => {
+    console.log(`Listening...`)
 })
