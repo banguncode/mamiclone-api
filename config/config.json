@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "mamiclone-db",
-    "host": "127.0.0.1",
+    "username": "bf4a1d70dd3fe1",
+    "password": "d1bae709",
+    "database": "heroku_74b837fbcc9c19b",
+    "host": "us-cdbr-east-02.cleardb.com",
     "dialect": "mysql",
     "operatorsAliases": false
   },
